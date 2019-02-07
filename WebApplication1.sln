@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{D9217EE7-127E-4D98-8690-FEA94C3ED4A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1.Tests", "WebApplication1.Tests\WebApplication1.Tests.csproj", "{84AA7550-FEC6-4211-9262-1FA827A224D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{47B48113-D20F-47FA-A500-94223FD85FA0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{3236FFCD-9300-46BF-A96E-5C3507FACBD7}"
 EndProject
@@ -19,10 +19,10 @@ Global
 		{D9217EE7-127E-4D98-8690-FEA94C3ED4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9217EE7-127E-4D98-8690-FEA94C3ED4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9217EE7-127E-4D98-8690-FEA94C3ED4A1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{84AA7550-FEC6-4211-9262-1FA827A224D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{84AA7550-FEC6-4211-9262-1FA827A224D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{84AA7550-FEC6-4211-9262-1FA827A224D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{84AA7550-FEC6-4211-9262-1FA827A224D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B48113-D20F-47FA-A500-94223FD85FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B48113-D20F-47FA-A500-94223FD85FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B48113-D20F-47FA-A500-94223FD85FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B48113-D20F-47FA-A500-94223FD85FA0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3236FFCD-9300-46BF-A96E-5C3507FACBD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3236FFCD-9300-46BF-A96E-5C3507FACBD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3236FFCD-9300-46BF-A96E-5C3507FACBD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
